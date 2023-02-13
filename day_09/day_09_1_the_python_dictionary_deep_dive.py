@@ -1,0 +1,35 @@
+# Python Dictionaries
+
+programming_dictionary = {
+  "Bug": "An error in a program that prevents the program from running as expected.",
+  "Function": "A piece of code that you can easily call over and over again.",
+  "Loop": "The action of doing something over and over again.",
+}
+
+
+programa_dicionario = {
+  "Bug": "Um erro em um programa que impede que o programa seja executado conforme o esperado.",
+  "Function": "Um trecho de código que você pode chamar facilmente repetidamente.",
+}
+
+#Retrieving items from dictionary.
+# print(programming_dictionary["Function"])
+
+#Adding new items to dictionary.
+programa_dicionario["Loop"] = "A ação de fazer algo repetidamente."
+
+#Create an empty dictionary.
+vazio_dicionario = {}
+
+#Wipe an existing dictionary
+# programming_dictionary = {}
+# print(programming_dictionary)
+
+#Edit an item in a dictionary
+programa_dicionario["Bug"] = "Uma maripousa em seu computador."
+# print(programming_dictionary)
+
+#Loop through a dictionary
+# for key in programming_dictionary:
+#   print(key)
+#   print(programming_dictionary[key])
