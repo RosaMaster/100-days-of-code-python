@@ -19,7 +19,7 @@
 
 
 <!-- DESCRIBLE -->
->Finalizei o curso de **"100 Dias de Código"** - Bootcamp Ministrado pela **Dra. Angela Yu**, na plataforma Udemy, para iniciantes em busca de conhecimentos na área de desenvolvimento, este foca exclusivamente em Python. Meu objetivo iniciar o meu desenvolvimento e aprendizado em Python, este curso foi uma indicação de uma pessoa especial que foi meu mentor e amigo nessa jornada de aprendizado, me orientou, me direcionou, cobrou e apoiou em momentos que foram dificieis, dedico essa conquista a ele e atodos que me ajudaram nesse trilha, vejo o quanto evolui profissionalmente. É com orgulho que compartilho minhas atividades e meus projetos através desse repositório e recomendo: **100 Dias de Código - O Bootcamp Python.**<br><br>
+>Finalizei o curso de **"100 Dias de Código"** - Bootcamp Ministrado pela **Dra. Angela Yu**, na plataforma Udemy, para iniciantes em busca de conhecimentos na área de desenvolvimento, este foca exclusivamente em Python. Meu objetivo iniciar o meu desenvolvimento e aprendizado em Python, este curso foi uma indicação de uma pessoa especial que foi meu mentor e amigo nessa jornada de aprendizado, me orientou, me direcionou, cobrou e apoiou em momentos que foram dificieis, dedico essa conquista a ele e a todos que me ajudaram nesse trilha, vejo o quanto evolui profissionalmente. É com orgulho que compartilho minhas atividades e meus projetos através desse repositório e recomendo: **100 Dias de Código - O Bootcamp Python.**<br><br>
 >Que meus projetos sirvam de inspiração, ajude e contribua com desenvolvimento e apredizado, motive e guie você que também se encontra nessa longa jornada de aprendizado.<br><br>
 >**LifeLong Learning | Aprendizado ao longo da vida...**
 
