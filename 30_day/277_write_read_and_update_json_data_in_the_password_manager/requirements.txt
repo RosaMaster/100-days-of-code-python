@@ -1,0 +1,3 @@
+tkinter
+json5==0.9.22
+pyperclip==1.9.0
