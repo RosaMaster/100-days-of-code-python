@@ -27,6 +27,9 @@
 ---
 <!-- LEVEL BEGINNER -->
 # <img src="https://i.pinimg.com/originals/b3/cb/5a/b3cb5a293121ae02d73aa5fc173f2a1d.gif" alt="Waving hand animated gif" height="30" width="100" /> **BEGINNER** <img src="https://i.pinimg.com/originals/b3/cb/5a/b3cb5a293121ae02d73aa5fc173f2a1d.gif" alt="Waving hand animated gif" height="30" width="100" />
+
+<details>
+
 >&#128311; **Dia 1**: Trabalhando com Variáveis ​​em Python para Gerenciar Dados
 
 >&#128310; **Dia 2**: Compreendendo os tipos de dados e como manipular strings
@@ -55,10 +58,13 @@
 
 >&#128310; **Dia 14**: Projeto de Jogo Superior Superior
 
+</details>
 
 ---
 <!-- LEVEL INTERMEDIATE -->
 # <img src="https://media.tenor.com/9WFsBeb7sr8AAAAC/loading-gif.gif" alt="Waving hand animated gif" height="30" width="100" /> **INTERMEDIATE** <img src="https://media.tenor.com/9WFsBeb7sr8AAAAC/loading-gif.gif" alt="Waving hand animated gif" height="30" width="100" />
+
+<details>
 
 >&#128311; **Dia 15**: Configuração do Ambiente de Desenvolvimento Local e Projeto da Máquina de Café
 
@@ -94,10 +100,13 @@
 
 >&#128311; **Dia 31**: Projeto Capstone - Aplicativo Flash Card
 
+</details>
 
 ---
 <!-- LEVEL INTERMEDIATE + -->
 # <img src="https://media.tenor.com/SfxgXN1tpIYAAAAC/soniso-ondas-sonoras.gif" alt="Waving hand animated gif" height="30" width="100" /> **INTERMEDIATE +** <img src="https://media.tenor.com/SfxgXN1tpIYAAAAC/soniso-ondas-sonoras.gif" alt="Waving hand animated gif" height="30" width="100" />
+
+<details>
 
 >&#128310; **Dia 32**: Enviar e-mail (smtplib) e gerenciar datas (data e hora): O desejo de aniversário automatizado
 
@@ -153,10 +162,13 @@
 
 >&#128310; **Dia 58**: Bootstrap
 
+</details>
 
 ---
 <!-- LEVEL ADVANCED -->
 # <img src="https://media.tenor.com/CPzBMIFCiEIAAAAM/celebration-fireworks.gif" alt="Waving hand animated gif" height="30" width="100" /> **ADVANCED** <img src="https://media.tenor.com/CPzBMIFCiEIAAAAM/celebration-fireworks.gif" alt="Waving hand animated gif" height="30" width="100" />
+
+<details>
 
 >&#128311; **Dia 59**: Blog atualizado com bootstrap
 
@@ -204,10 +216,13 @@
 
 >&#128311; **Dia 80**: Projeto Capstone - Prever os preços das casas
 
+</details>
 
 ---
 <!-- LEVEL PROFESSIONAL -->
 # <img src="https://i.gifer.com/origin/89/899534bf8ec6b1abf4b6e16f0c35de85.gif" alt="Waving hand animated gif" height="30" width="100" /> **PROFESSIONAL** <img src="https://i.gifer.com/origin/89/899534bf8ec6b1abf4b6e16f0c35de85.gif" alt="Waving hand animated gif" height="30" width="100" />
+
+<details>
 
 >&#128310; **Dia 81**: Projeto de portfólio - Conversor de texto para código Morse
 
@@ -249,6 +264,7 @@
 
 >&#128311; **Dia 100**: Projeto de portfólio - Prevendo ganhos usando regressão multivariável
 
+</details>
 
 ---
 <!-- TOOLS & SKILLS -->
