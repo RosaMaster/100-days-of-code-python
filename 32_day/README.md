@@ -9,6 +9,7 @@
 | [pandas](https://pandas.pydata.org/docs/)                                             |
 | [random](https://docs.python.org/pt-br/3.13/library/random.html)                      |
 | [201 Citações de motivação](https://www.positivityblog.com/monday-motivation-quotes/) |
+| [Hospedagem - pythonanywhere](https://www.pythonanywhere.com/)                        |
 
 
 ####  SMTP (smtplib)
