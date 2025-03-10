@@ -1,27 +1,11 @@
-### API Endpoints AND API Parameters
+### API Pratice - Creating a GUI Quiz App
 
 #### Links uteís
 
 | **Documentação**                                                                                              |
 | ------------------------------------------------------------------------------------------------------------- |
-| [smtplib](https://docs.python.org/3/library/smtplib.html)                                                     |
-| [datetime](https://docs.python.org/3/library/datetime.html)                                                   |
-| [lib requests](https://pypi.org/project/requests/)                                                            |
-| [Python String split() Method](https://www.w3schools.com/python/ref_string_split.asp)                         |
-| [Sunset and sunrise times API](https://sunrise-sunset.org/api)                                                |
-| [https://kanye.rest/](https://kanye.rest/)                                                                    |
-| [Requests: HTTP for Humans](https://docs.python-requests.org/en/latest/)                                      |
-| [Latitude and Longitude Finder](https://www.latlong.net/)                                                     |
-| [Reverse Geocoding Convert Lat Long to Address](https://www.latlong.net/Show-Latitude-Longitude.html)         |
-| [HTTP Status Codes Glossary](https://www.webfx.com/web-development/glossary/http-status-codes/)               |
-| [Mozilla Firefox Browser](https://www.mozilla.org/en-GB/firefox/new/)                                         |
-| [JSON Viewer](https://chromewebstore.google.com/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh)          |
-| [International Space Station Current Location](http://open-notify.org/Open-Notify-API/ISS-Location-Now/)      |
-| [API](https://pt.wikipedia.org/wiki/Interface_de_programa%C3%A7%C3%A3o_de_aplica%C3%A7%C3%B5es)               |
-| [International Space Station - ISS](https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Espacial_Internacional)   |
-| [yahoo! developer api](https://developer.yahoo.com/api/)                                                      |
-| [coinbase api](https://www.coinbase.com/pt-br/developer-platform/products/exchange-api)                       |
-| [Rapid API NBA](https://rapidapi.com/api-sports/api/api-nba)                                                  |
+| [Open Trivia Database](https://opentdb.com/)                                                                  |
+
 
 
 ####  API
