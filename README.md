@@ -1,22 +1,48 @@
 <!-- HEADER -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=258f76&height=140&section=header" alt="header"/>
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A0153E&height=140&section=header" alt="header"/>
 
 <!-- TITLE -->
-<h1 align="center" alt="title">
-  <img src="https://media0.giphy.com/media/crxNUSArkbdMwE7B4r/giphy.gif?cid=ecf05e47fs0o2g9jb9cjad9iogriaoh8r8n11wc43887475k&rid=giphy.gif&ct=g" alt="Waving hand animated gif" height="45" width="45" />
-    <b> 100_Days_Of_Code_Python </b>
-  <img src="https://media0.giphy.com/media/crxNUSArkbdMwE7B4r/giphy.gif?cid=ecf05e47fs0o2g9jb9cjad9iogriaoh8r8n11wc43887475k&rid=giphy.gif&ct=g" alt="Waving hand animated gif" height="45" width="45" />
-</h1>
+<h2 align="center" alt="title">
+
+    <head>    1 0 0   D A Y S   O F   P Y T H O N    </head>
+
+</h2>
+
+<details><summary>Ambiente Virtual (VENV)<summary>
+
+##### Como criar um Ambiente Virtual no Projeto Python
+
+~~~Bash
+python -m venv venv
+~~~
+
+###### Ativando Ambiente pelo Git Bash
+
+~~~Bash
+source venv/Scripts/activate
+~~~
+
+- Para desativar o Ambiente Virtual, basta executar o comando:
+
+~~~Bash
+deactivate
+~~~
 
 
-<!-- 100_DAYS_OF_PYTHON -->
-![Python](https://img.shields.io/badge/-100_DAYS_OF_PYTHON-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+###### Ativando Ambiente pelo CMD
+
+~~~Prompt
+.\venv\Scripts\activate
+~~~
+
+</details>
 
 
 <!-- IMG -->
 [![100_Days_Of_Code_Python](https://user-images.githubusercontent.com/91338088/149630953-c49f3588-6c9c-4825-a17d-3c62722625f4.jpg)](https://ude.my/UC-baac75bd-6b2c-4cfb-8c5f-b20724ee0f8e/)
 
+<!-- 100_DAYS_OF_PYTHON -->
+![Python](https://img.shields.io/badge/-100_DAYS_OF_PYTHON-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 <!-- DESCRIBLE -->
 >Finalizei o curso de **"100 Dias de Código"** - Bootcamp Ministrado pela **Dra. Angela Yu**, na plataforma Udemy, para iniciantes em busca de conhecimentos na área de desenvolvimento, este foca exclusivamente em Python. Meu objetivo iniciar o meu desenvolvimento e aprendizado em Python, este curso foi uma indicação de uma pessoa especial que foi meu mentor e amigo nessa jornada de aprendizado, me orientou, me direcionou, cobrou e apoiou em momentos que foram dificieis, dedico essa conquista a ele e a todos que me ajudaram nesse trilha, vejo o quanto evolui profissionalmente. É com orgulho que compartilho minhas atividades e meus projetos através desse repositório e recomendo: **100 Dias de Código - O Bootcamp Python.**<br><br>

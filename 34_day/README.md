@@ -5,6 +5,8 @@
 | **Documentação**                                                                                              |
 | ------------------------------------------------------------------------------------------------------------- |
 | [Open Trivia Database](https://opentdb.com/)                                                                  |
+| [HTML Entities](https://www.w3schools.com/html/html_entities.asp)                                             |
+|
 
 
 
