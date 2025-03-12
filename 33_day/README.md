@@ -1,4 +1,4 @@
-### Send Email Project
+### API Endpoints AND API Parameters
 
 #### Links uteís
 
@@ -88,4 +88,4 @@ import time
 
 <br>
 
-[**HOME**](#send-email-project)
+[**HOME**](#api-endpoints-and-api-parameters)
