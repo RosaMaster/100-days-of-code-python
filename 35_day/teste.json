@@ -1,6 +1,0 @@
-{
-    "placa": "string",
-    "guid": "string",
-    "dataEntrada": "datetime",
-    "dataSaida": "datetime"
-}

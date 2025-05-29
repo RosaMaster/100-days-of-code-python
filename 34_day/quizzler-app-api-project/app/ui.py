@@ -5,8 +5,11 @@ THEME_COLOR = "#375362"
 
 
 class QuizInterface:
+    """Creates the UI for the quiz application."""
 
     def __init__(self, quiz_brain: QuizBrain):
+        """Initializes the QuizInterface with a QuizBrain instance."""
+
         self.quiz = quiz_brain
 
         self.window = Tk()
@@ -39,8 +42,12 @@ class QuizInterface:
 
         self.window.mainloop()
 
+
     def get_next_question(self):
+        """Fetches the next question from the quiz and updates the UI."""
+
         self.canvas.config(bg="white")
+
         if self.quiz.still_has_questions():
             self.score_label.config(text=f"Score: {self.quiz.score}")
             q_text = self.quiz.next_question()
@@ -50,24 +57,25 @@ class QuizInterface:
             self.true_button.config(state="disabled")
             self.false_button.config(state="disabled")
 
+
     def true_pressed(self):
+        """Handles the event when the true button is pressed."""
+
         self.give_feedback(self.quiz.check_answer("True"))
 
+
     def false_pressed(self):
+        """Handles the event when the false button is pressed."""
+
         is_right = self.quiz.check_answer("False")
         self.give_feedback(is_right)
 
+
     def give_feedback(self, is_right):
+        """Provides feedback on the user's answer."""
+        
         if is_right:
             self.canvas.config(bg="green")
         else:
             self.canvas.config(bg="red")
         self.window.after(1000, self.get_next_question)
-
-
-
-
-
-
-
-
