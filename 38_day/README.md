@@ -1,5 +1,19 @@
 ### Rastreador de Treinos (Workout Tracker)
 
+#### STEPS
+
+- [**Step 01**](./doc/step1.md)
+
+- [**Step 02**](./doc/step2.md)
+
+- [**Step 03**](./doc/step3.md)
+
+- [**Step 04**](./doc/step4.md)
+
+- [**Step 05**](./doc/step5.md)
+
+- [**Step 06**](./doc/step6.md)
+
 #### Links uteís
 
 | **Documentação**                                                                      |
@@ -45,3 +59,5 @@ O nome da sua planilha do Google deve estar no plural. Caso contrário, o Sheety
 O nome do projeto no endpoint também deve estar em CamelCase.
 
 O nome que você usar para a chave primária na chamada da API deve ser a versão em CamelCase do singular do nome da planilha. Ou seja, se o nome da sua planilha for "Meus Treinos", você deverá usar "myWorkout" no dicionário da API. Também pode ser necessário atualizar a página da API no Sheety.
+
+[**[ INICIO ]**](#rastreador-de-treinos-workout-tracker)
